@@ -1,0 +1,9 @@
+/.gradle/
+/.idea/
+/.vertx/
+/build/
+/file-uploads/
+/gradle/
+/gradlew
+/settings.gradle
+/gradlew.bat
